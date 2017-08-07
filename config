@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = file:C:/Users/AF43847/EclipseWorkspace/TAT-RuleService
+	fetch = +refs/heads/*:refs/remotes/origin/*
